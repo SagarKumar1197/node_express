@@ -4,5 +4,10 @@
   "description": "my first node and express app",
   "main": "server.js",
   "author": "sagar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mongoose": "^5.10.9"
+  }
 }
